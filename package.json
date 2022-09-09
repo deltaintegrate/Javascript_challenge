@@ -1,0 +1,14 @@
+{
+  "name": "javascript-codewars-projects",
+  "version": "1.0.0",
+  "description": "repository with codewars solution's taka",
+  "main": "coutingvalley.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Leonardo Castrillon",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  }
+}
